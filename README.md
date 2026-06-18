@@ -10,8 +10,8 @@ Current Focus:
 - DSA + Leetcode
 <br>
 Projects:
-- Terminal-Based PA
-- Expense Tracker
+1. Terminal-Based PA
+2. Expense Tracker
 <br>
 Currently working on foundational and intermediate concepts of building.<br>
 <br>
