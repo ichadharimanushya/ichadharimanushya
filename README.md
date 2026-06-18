@@ -17,6 +17,8 @@ Long term target is to built a strong foundation in programming, problem-solving
 - Terminal-Based PA
 - Expense Tracker
 
+More projects coming soon...
+
 ---
 
 Currently working on foundational and intermediate concepts of building.<br>
