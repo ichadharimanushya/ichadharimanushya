@@ -13,7 +13,7 @@ Long term target is to built a strong foundation in programming, problem-solving
 
 ---
 
-### Projects:
+### Projects: 
 - Terminal-Based PA
 - Expense Tracker
 - Habit Tracker
