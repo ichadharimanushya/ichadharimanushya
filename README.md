@@ -6,7 +6,7 @@ Long term target is to built a strong foundation in programming, problem-solving
 
 ---
 
-### Current Focus:
+### Current Focus: 
 - Python Development
 - Building projects
 - DSA + Leetcode
