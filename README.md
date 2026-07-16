@@ -16,4 +16,4 @@ Long term target is to built a strong foundation in programming, problem-solving
 
 Currently working on foundational and intermediate concepts of building.<br>
 ### Motto: 
-Build -> Debug -> Learn -> Repeat
+Learn -> Build -> Debug -> Repeat
